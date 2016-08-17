@@ -7,3 +7,4 @@ Does it work this way
 foo
 lasterasdf
 civil
+foo
