@@ -25,3 +25,4 @@ foo
 foo
 foo
 I like cheese
+foo
